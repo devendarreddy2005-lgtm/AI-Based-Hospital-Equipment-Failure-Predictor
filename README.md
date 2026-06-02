@@ -126,3 +126,8 @@ Devendar Reddy M
 MSc Health Informatics
 
 AI-Based Hospital Equipment Failure Predictor
+
+# AI-Based Hospital Equipment Failure Predictor
+
+# Live Demo
+https://devendarreddy2005-lgtm-ai-based-hospital-equipment-f-app-tjaah0.streamlit.app
