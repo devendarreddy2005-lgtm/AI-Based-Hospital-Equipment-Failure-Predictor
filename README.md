@@ -134,3 +134,17 @@ AI-Based Hospital Equipment Failure Predictor
 
 # Live Demo
 https://devendarreddy2005-lgtm-ai-based-hospital-equipment-f-app-tjaah0.streamlit.app
+
+## Dashboard Screenshots
+
+# Main Dashboard
+[Main Dashboard](dashboard-overview.png)
+
+# Cost Analysis
+[Cost Analysis](cost-analysis.png)
+
+# Financial Analytics & Equipment Alerts
+[Financial Analytics](financial-alerts.png)
+
+# Equipment Monitoring Table
+[Equipment Monitoring](equipment-monitoring.png)
