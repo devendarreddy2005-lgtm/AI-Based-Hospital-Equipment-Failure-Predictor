@@ -64,6 +64,9 @@ The system predicts equipment failures, identifies high-risk machines, generates
 - FPDF
 
 ---
+## Dataset Information
+
+This project uses a simulated hospital equipment dataset created for educational and demonstration purposes. The dataset mimics real-world equipment maintenance and failure patterns while containing no actual patient or hospital data.
 
 ## Dataset Fields
 
