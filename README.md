@@ -138,13 +138,13 @@ https://devendarreddy2005-lgtm-ai-based-hospital-equipment-f-app-tjaah0.streamli
 ## Dashboard Screenshots
 
 # Main Dashboard
-![Main Dashboard](dashboard-overview.png)
+![Main Dashboard](dashboard-overview.png.png)
 
 # Cost Analysis
-![Cost Analysis](cost-analysis.png)
+![Cost Analysis](cost-analysis.png.png)
 
 # Financial Analytics & Equipment Alerts
-![Financial Analytics](financial-alerts.png)
+![Financial Analytics](financial-alerts.png.png)
 
 # Equipment Monitoring Table
-![Equipment Monitoring](equipment-monitoring.png)
+![Equipment Monitoring](equipment-monitoring.png.png)
